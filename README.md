@@ -3,5 +3,4 @@
   <img src=x onerror=alert(1)>
   <script>alert(1)</script>
   <img src=x onmouseover="alert('xxs')">
-[a](javascript:confirm(1)
-<b>test</b>
+
