@@ -1,6 +1,6 @@
 # -b-
 <b>test</b>test
-  <img src="x&quot;" onerror=alert(1)>
+  <img src="x&quot;" o%20nerror=ale%20rt(1)>
   <script>alert(1)</script>
   <img src=x onmouseover="alert('xxs')">
 <'';!--"<<XSS>=&{()}
