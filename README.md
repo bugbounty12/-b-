@@ -1,10 +1,7 @@
 # -b-
-1:
-<img src=x onerror=alert(1)>
-2:
-<img src=<'';!--"<XSS>=&{()}>
+<b>test</b>test
+  <img src=x onerror=alert(1)>
+  <script>alert(1)</script>
+  <img src=x onmouseover="alert('xxs')">
 <'';!--"<<XSS>=&{()}
 <form id="test"></form><button form="test" formaction="javascript:alert(1)">X</button>
-test
-asdadadada
-hashd
